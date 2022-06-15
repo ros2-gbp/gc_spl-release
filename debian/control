@@ -1,0 +1,12 @@
+Source: ros-galactic-gc-spl-2022
+Section: misc
+Priority: optional
+Maintainer: ijnek <kenjibrameld@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest <!nocheck>, ros-galactic-ament-copyright <!nocheck>, ros-galactic-ament-flake8 <!nocheck>, ros-galactic-ament-pep257 <!nocheck>, ros-galactic-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-gc-spl-2022
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-galactic-rcgcd-spl-14, ros-galactic-rcgcd-spl-14-conversion, ros-galactic-rcgcrd-spl-4, ros-galactic-rcgcrd-spl-4-conversion, ros-galactic-rclpy, ros-galactic-ros-workspace
+Description: GameController-Robot communication in RoboCup SPL at RoboCup2022
