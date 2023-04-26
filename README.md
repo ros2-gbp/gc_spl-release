@@ -1,3 +1,31 @@
+## gc_spl (foxy) - 0.0.2-1
+
+The packages in the `gc_spl` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy gc_spl` on `Wed, 26 Apr 2023 02:31:58 -0000`
+
+These packages were released:
+- `gc_spl_2022`
+- `rcgcd_spl_14`
+- `rcgcd_spl_14_conversion`
+- `rcgcrd_spl_4`
+- `rcgcrd_spl_4_conversion`
+
+Version of package(s) in repository `gc_spl`:
+
+- upstream repository: https://github.com/ros-sports/gc_spl.git
+- release repository: https://github.com/ros2-gbp/gc_spl-release.git
+- rosdistro version: `0.0.1-1`
+- old version: `0.0.1-1`
+- new version: `0.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## gc_spl (rolling) - 3.0.0-1
 
 The packages in the `gc_spl` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling gc_spl --override-release-repository-url https://github.com/ros2-gbp/gc_spl-release.git --edit` on `Wed, 15 Jun 2022 06:51:58 -0000`
