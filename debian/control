@@ -1,0 +1,12 @@
+Source: ros-foxy-gc-spl-2022
+Section: misc
+Priority: optional
+Maintainer: ijnek <kenjibrameld@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest <!nocheck>, ros-foxy-ament-copyright <!nocheck>, ros-foxy-ament-flake8 <!nocheck>, ros-foxy-ament-pep257 <!nocheck>, ros-foxy-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-gc-spl-2022
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-foxy-rcgcd-spl-14, ros-foxy-rcgcd-spl-14-conversion, ros-foxy-rcgcrd-spl-4, ros-foxy-rcgcrd-spl-4-conversion, ros-foxy-rclpy, ros-foxy-ros-workspace
+Description: GameController-Robot communication in RoboCup SPL at RoboCup2022
