@@ -1,4 +1,4 @@
-# Game Controller SPL
+# GC SPL
 
 ROS2 Package to interface RoboCup Standard Platform League's Game Controller.
 
