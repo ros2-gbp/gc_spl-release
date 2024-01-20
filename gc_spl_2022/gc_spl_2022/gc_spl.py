@@ -80,7 +80,7 @@ class GCSPL(Node):
 
                 # Publish it
                 self._publisher.publish(msg)
-            except socket.timeout:
+            except TimeoutError:
                 pass
 
     def _rcgcrd_callback(self, msg):
