@@ -1,0 +1,8 @@
+ros-iron-gc-spl (3.1.0-1bullseye) bullseye; urgency=high
+
+  * Add package (#58 <https://github.com/ros-sports/gc_spl/issues/58>)
+  * Contributors: Florian Vahl, Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 20 Jan 2024 00:00:00 -0000
+
+
