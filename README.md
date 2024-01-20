@@ -1,3 +1,35 @@
+## gc_spl (humble) - 2.1.0-1
+
+The packages in the `gc_spl` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble gc_spl` on `Sat, 20 Jan 2024 18:01:39 -0000`
+
+These packages were released:
+- `game_controller_spl`
+- `game_controller_spl_interfaces`
+- `gc_spl`
+- `gc_spl_2022`
+- `gc_spl_interfaces`
+- `rcgcd_spl_14`
+- `rcgcd_spl_14_conversion`
+- `rcgcrd_spl_4`
+- `rcgcrd_spl_4_conversion`
+
+Version of package(s) in repository `gc_spl`:
+
+- upstream repository: https://github.com/ros-sports/gc_spl.git
+- release repository: https://github.com/ros2-gbp/gc_spl-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## gc_spl (iron) - 4.0.0-1
 
 The packages in the `gc_spl` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron gc_spl` on `Sat, 20 Jan 2024 17:46:37 -0000`
