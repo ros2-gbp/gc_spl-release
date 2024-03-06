@@ -1,0 +1,15 @@
+ros-rolling-gc-spl (4.0.0-2noble) noble; urgency=high
+
+  * Deprecate package (#79 <https://github.com/ros-sports/gc_spl/issues/79>)
+  * Add package (#58 <https://github.com/ros-sports/gc_spl/issues/58>)
+  * Contributors: Florian Vahl, Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 20 Jan 2024 00:00:00 -0000
+
+ros-rolling-gc-spl (3.0.0-2noble) noble; urgency=high
+
+
+
+ -- ijnek <kenjibrameld@gmail.com>  Wed, 15 Jun 2022 00:00:00 -0000
+
+
