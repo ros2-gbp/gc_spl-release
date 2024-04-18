@@ -1,1 +1,1 @@
-{"base": "de4c107", "parent": "debian/rolling/gc_spl_interfaces", "previous": "6e7e8ce", "trim": "", "trimbase": ""}
+{"base": "58aedd1", "parent": "debian/jazzy/gc_spl_interfaces", "previous": "2a0834b", "trim": "", "trimbase": ""}
